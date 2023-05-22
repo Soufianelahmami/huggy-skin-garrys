@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In the realm of peculiar creatures, few are as intriguing and delightful as the Huggy Skin Garrys. ","photo2":"https://iili.io/HgvEE9S.jpg"},
+  {"desc3":"These small, affectionate beings possess unique physical characteristics and a charming demeanor that has captivated the imagination of many. In this article, we will explore the enchanting world of Huggy Skin Garrys,","photo3":"https://iili.io/HgvEcF4.jpg"},
+  {"desc4":"examining their appearance, behavior, habitat, and the special bond they form with humans. Prepare to embark on a journey into a whimsical universe filled with warmth, love, and endless cuddles.","photo4":"https://iili.io/HgvE0S2.jpg"},
+  {"desc5":"Huggy Skin Garrys are small creatures, typically measuring between 15 to 20 centimeters in height. ","photo5":"https://iili.io/HgvElcl.jpg"},
+  {"descd":"They possess a soft, furry exterior, which varies in color from shades of pastel pink, blue, and yellow to more vibrant hues like purple and green.","photod":"https://iili.io/HgvEGA7.jpg"}
    ]
  
 }
